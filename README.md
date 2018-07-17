@@ -1,4 +1,4 @@
-# isle-meetings
+# ISLE-Meetings
 Temp repo location for ISLE Maintainer Meeting minutes
 
 Future location either: 

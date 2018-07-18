@@ -7,7 +7,6 @@ Future location either:
 
 ## Meeting Details
 * 3:00pm EST Wednesday, every two weeks
-    * Upcoming exception: Next meeting **9:00am EST** Wednesday, July 18, 2018
 * Zoom: [columbiauniversity.zoom.us/j/836960289](https://columbiauniversity.zoom.us/j/836960289)
 * Agenda: [bit.ly/isle-meeting](https://bit.ly/isle-meeting)
 

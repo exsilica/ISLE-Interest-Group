@@ -30,12 +30,12 @@ Temp repo location for ISLE Interest Group meeting minutes
 * Zoom: [columbiauniversity.zoom.us/j/836960289](https://columbiauniversity.zoom.us/j/836960289)
 * Agenda: [bit.ly/isle-meeting](https://bit.ly/isle-meeting)
 * Next Meeting: Wednesday, August 15 2018 3:00pm EST
-* Subscribe to [our Google group]((https://groups.google.com/forum/#!forum/isle-updates)) for updates, meeting announcements, and technical support
+* Subscribe to [our Google group](https://groups.google.com/forum/#!forum/isle-updates) for updates, meeting announcements, and technical support
 
 ## Meeting Roles
 * **Convener** solicits agenda items and ensures the meeting takes place, roles for note taking and issue tracking are assigned, and the Google group and Github page are updated after meetings
 * **Note taker** is assigned on a rotating basis and adds notes beneath agenda items at [bit.ly/isle-meeting](https://bit.ly/isle-meeting)
-* **Issue tracker** Creates/updates Github issues for relevant issues raised in meetings
+* **Issue tracker** creates/updates Github issues for relevant issues raised in meetings
 
 ## Membership
 * Benjamin Rosner (Barnard College)

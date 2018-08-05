@@ -16,4 +16,7 @@ Future location either:
 * Mark Sanford, Colgate University
 * Francesca Livermore, Wesleyan University
 
+### Next Meeting
+Wednesday, August 15 3:00pm EST
+
 ISLE is an [Islandora Collaboration Group](https://github.com/Islandora-Collaboration-Group) project.

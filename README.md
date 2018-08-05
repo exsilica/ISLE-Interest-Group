@@ -45,6 +45,9 @@ Temp repo location for ISLE Interest Group meeting minutes
 * David Kaiser-Clark (Williams College)
 * Mark McFate (Grinnell College)
 * Gavin Morris (Born-Digital)
+* Noah Smith (Born-Digital)
+* Derek Merleaux (Born-Digital)
+* Marcus Barnes (University of Toronto)
 
 ---
 ISLE is an [Islandora Collaboration Group](https://github.com/Islandora-Collaboration-Group) project.
